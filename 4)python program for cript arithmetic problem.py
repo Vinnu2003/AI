@@ -1,4 +1,4 @@
-print("Nukala Lokesh-192124216")
+print("Vinay Kumar-192111381")
 def isCryptSolution(crypt, solution):
         newsol = list(zip(*reversed(solution)))
         newstring1 = ''
