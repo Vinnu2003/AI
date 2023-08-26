@@ -1,4 +1,4 @@
-print("Nukala Lokesh-192124216")
+print("Vinay Kumar-192111381")
 print("\n")
 
 print("\tGame Start\nNow the task is to move all of them to right side of the river")
