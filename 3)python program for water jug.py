@@ -1,4 +1,4 @@
-print("Nukala Lokesh-192124216")
+print("Vinay Kumar-192111381")
 def pour(jug1, jug2):
     max1, max2, fill = 6,7,3 
     print("%d\t%d" % (jug1, jug2))
