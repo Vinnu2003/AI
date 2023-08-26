@@ -1,4 +1,4 @@
-print("Nukala Lokesh-192124216")
+print("Vinay Kumar-192111381")
 def is_safe(graph, node, color, coloring):
     for neighbor in graph[node]:
         if neighbor in coloring and coloring[neighbor] == color:
